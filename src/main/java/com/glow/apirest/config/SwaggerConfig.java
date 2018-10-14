@@ -38,7 +38,7 @@ public class SwaggerConfig {
                 "API REST do aplicativo Glow.",
                 "1.0",
                 "Terms of Service",
-                new Contact("João D'Amorim", "www.youtube.com",
+                new Contact("João D'Amorim", "https://github.com/joao-damorim",
                 		"joao.damorim@gmail.com"),
                 "Apache License Version 2.0",
                 "https://www.apache.org/licesen.html", new ArrayList<VendorExtension>()
